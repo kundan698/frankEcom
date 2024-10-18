@@ -1,0 +1,10 @@
+{
+  "extends": "next/core-web-vitals"
+}
+/* http://wscubetech.co/form-api/saveUser.php */
+/* View data */
+/* https://wscubetech.co/form-api/view_user.php */
+/* save data */
+/* https://wscubetech.co/form-api/save_user.php */
+/* id  */
+/* https://wscubetech.co/form-api/delete_user.php?id=${id} */
